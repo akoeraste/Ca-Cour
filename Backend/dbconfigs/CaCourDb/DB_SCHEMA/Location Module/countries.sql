@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS countries(
+    country_id UUID PRIMARY KEY NOT NULL,
+    name VARCHAR NOT NULL
+);

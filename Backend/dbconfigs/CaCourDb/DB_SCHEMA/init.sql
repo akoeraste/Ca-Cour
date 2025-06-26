@@ -1,0 +1,5 @@
+\i 'users.sql'
+\i 'banned_users.sql'
+\i 'device_tokens.sql'
+\i 'referrals.sql'
+\i 'user_verifications.sql'
